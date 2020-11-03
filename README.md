@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Alexander
 ![Visitor Count](https://komarev.com/ghpvc/?username=JudoboyAlex&color=ff69b4)
 <br/>
-- 🌱 I’m currently focusing on learning Java and CS fundamentals(OOP concepts, Design Patterns, System Design, Algorithms& Data Structure)
-- 🥅 2021 Goals: to become a React/Spring developer
+- 🌱 I’m currently focusing on learning CS fundamentals(OOP concepts, Design Patterns, System Design, Algorithms& Data Structure), TypeScript and React Native
+- 🥅 2021 Goals: build both web and mobile app through TypeScript and solve Leetcode medium difficulty under 20 minutes.  
 - ⚡ Fun fact: I'm Jiu-Jitsu black belt 🥋 and big Raptors fan
 <br/>
 
