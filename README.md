@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Alexander
 ![Visitor Count](https://komarev.com/ghpvc/?username=JudoboyAlex&color=ff69b4)
 <br/>
-- 🌱 I’m currently focusing on learning CS fundamentals(OOP concepts, Design Patterns, System Design, Algorithms& Data Structures)
-- 🥅 2021 Goals: become extremely proficient with React/React Native and solve Leetcode medium difficulty question under 20 minutes.  
+- 🌱 I’m currently focusing on studying Front End Development, Algorithms& Data Structures and System Design.
+- 🥅 2022 Goals: gain superb understanding of all aspects of Front End Development, explain System Design in both Frontend/Backend and solve Leetcode medium difficulty question under 20 minutes.  
 - ⚡ Fun fact: I'm Jiu-Jitsu black belt 🥋 and big Raptors fan
 <br/>
 
