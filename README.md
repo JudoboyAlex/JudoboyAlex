@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Alexander
 ![Visitor Count](https://komarev.com/ghpvc/?username=JudoboyAlex&color=ff69b4)
 <br/>
-- 🌱 I’m currently focusing on sharpening up my Frontend skills and System Design.
-- 🥅 2023 Goals: gain superior understanding on System Design and solve Leetcode medium difficulty question under 20 minutes.  
+- 🌱 I’m currently studying CU Boulder MSCS courses.
+- 🥅 2024 Goals: Enroll in MSCS program with US university and learn the graduate level CS.  
 - ⚡ Fun fact: I'm Jiu-Jitsu black belt 🥋 and big Raptors fan.
 <br/>
 
