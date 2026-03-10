@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Alexander
 ![Visitor Count](https://komarev.com/ghpvc/?username=JudoboyAlex&color=ff69b4)
 <br/>
-- 🌱 I’m currently studying CU Boulder MSCS specializing in AI.
-- 🥅 2025 Goals: Complete CU Boulder MSCS by end of this year.  
+- 🥅 2026 Goals: Revamp my personal site with new frontend technologies. 
 - ⚡ Fun fact: I'm Jiu-Jitsu black belt 🥋 and big Raptors fan.
 <br/>
 
